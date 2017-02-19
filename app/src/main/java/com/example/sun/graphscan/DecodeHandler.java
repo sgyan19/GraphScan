@@ -1,13 +1,11 @@
 package com.example.sun.graphscan;
 
-import android.app.Application;
 import android.graphics.Bitmap;
 import android.os.Environment;
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
 import android.util.Log;
-import android.widget.Toast;
 
 import com.example.sun.bitmap.PlanarYUVLuminanceSource;
 
